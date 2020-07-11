@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, my name is Ann　杏  and I live in Japan 👋
 
-<!--
-**ann-kilzer/ann-kilzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"But we’ll never be truly free / Until those in bondage have the same rights as you and me" -- Hamilton
+Abolish ICE & support immigrant rights!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a career pivot!
+- 🌱 I’m currently learning Python3 and Rails
+- 👯 I’m looking to collaborate on creative coding and empowering women in tech.
+- 🤔 I’m looking for help with finding a new job in Tokyo
+- 💬 Ask me about Women Who Code Tokyo.
+- 📫 How to reach me: Check out my twitter from my bio.
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: I have a cat 🐈 named Ramona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
