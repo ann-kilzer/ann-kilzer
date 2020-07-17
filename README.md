@@ -1,7 +1,5 @@
 ### Hi there, my name is Ann 杏  and I live in Japan 👋
 
-"But we’ll never be truly free / Until those in bondage have the same rights as you and me" -- Hamilton
-
 Abolish ICE & support immigrant rights!
 
 - 🔭 I’m currently working on a career pivot!
