@@ -4,12 +4,14 @@
 
 Abolish ICE & support immigrant rights!
 
-- 🔭 I’m currently working on a career pivot!
-- 🌱 I’m currently learning Python3 and Rails
+- 🔭 I’m currently working on a career pivot, looking for a new job in Tokyo!
+- ✨ I'm excited about user-centric design and products built with care.
+- 🌱 I’m currently learning Python3 and practicing Vue.js and Golang
 - 👯 I’m looking to collaborate on creative coding and empowering women in tech.
-- 🤔 I’m looking for help with finding a new job in Tokyo
-- 💬 Ask me about Women Who Code Tokyo.
-- 📫 How to reach me: Check out my twitter from my bio.
+- 🤔 I’m looking for help with finding a new job.
+- 💬 Ask me about [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
+- 📫 How to reach me: 🐦 https://twitter.com/stonecoldkilzer
+- 📺 Recently I have been streaming my programming study on [twitch](https://www.twitch.tv/catbacon)!
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I have a cat 🐈 named Ramona.
 
