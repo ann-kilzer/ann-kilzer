@@ -15,3 +15,4 @@ Abolish ICE & support immigrant rights!
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I have a cat 🐈 named Ramona.
 
+![Twitch Status](https://img.shields.io/twitch/status/catbacon)
