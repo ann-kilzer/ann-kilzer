@@ -1,6 +1,6 @@
 ![Header](https://github.com/ann-kilzer/ann-kilzer/blob/master/images/Header.png)
 
-### Hi there, my name is Ann 杏  and I live in Japan 👋
+### Hi there, my name is Ann 杏 and I live in Japan 👋
 
 Abolish ICE & support immigrant rights!
 
