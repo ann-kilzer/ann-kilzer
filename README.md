@@ -4,7 +4,7 @@
 
 Abolish ICE & support immigrant rights!
 
-- 🔭 I’m currently working on a career pivot, looking for a new job in Tokyo!
+- 🔭 I work as a Software Engineer at Mercari!
 - ✨ I'm excited about user-centric design and products built with care.
 - 🌱 I’m currently learning Python3 and practicing Vue.js and Golang
 - 👯 I’m looking to collaborate on creative coding and empowering women in tech.
