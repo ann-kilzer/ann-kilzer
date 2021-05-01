@@ -6,13 +6,10 @@ Abolish ICE & support immigrant rights!
 
 - 🔭 I work as a Software Engineer at Mercari!
 - ✨ I'm excited about user-centric design and products built with care.
-- 🌱 I’m currently learning Python3 and practicing Vue.js and Golang
+- 🌱 I’m currently learning Python3 and practicing Vue.js, React, and Golang
 - 👯 I’m looking to collaborate on creative coding and empowering women in tech.
-- 🤔 I’m looking for help with finding a new job.
 - 💬 Ask me about [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
 - 📫 How to reach me: 🐦 https://twitter.com/stonecoldkilzer
-- 📺 Recently I have been streaming my programming study on [twitch](https://www.twitch.tv/catbacon)!
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I have a cat 🐈 named Ramona.
 
-![Twitch Status](https://img.shields.io/twitch/status/catbacon)
