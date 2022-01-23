@@ -2,9 +2,7 @@
 
 ### Hi there, my name is Ann 杏 and I live in Japan 👋
 
-Abolish ICE & support immigrant rights!
-
-- 🔭 I work as a Software Engineer at Mercari!
+- 🔭 I work as a Software Engineer at Mercari US@Tokyo!
 - ✨ I'm excited about user-centric design and products built with care.
 - 🌱 I’m currently learning Python3 and practicing Vue.js, React, and Golang
 - 👯 I’m looking to collaborate on creative coding and empowering women in tech.
