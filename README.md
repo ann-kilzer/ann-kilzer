@@ -25,7 +25,7 @@
 
 
 
-🔭 I work as a Software Engineer at Mercari US@Tokyo!
+🔭 I am about to start a new role as Software Architect at Slalom Build in Tokyo 🗼
 
 👯‍♀️ I volunteer as a Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
 
