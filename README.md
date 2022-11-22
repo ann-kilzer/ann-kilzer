@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/annkilzer/">
   <img src="https://img.shields.io/badge/-LinkedIn-114B5F" alt="LinkedIn"/>
 </a> 
-<a href="https://twitter.com/stonecoldkilzer">
-  <img src="https://img.shields.io/badge/-Twitter-166F67" alt="Twitter" />
-</a> 
 <a href="https://www.instagram.com/cat_bacon/">
   <img src="https://img.shields.io/badge/-Instagram-1A936F" alt="Instagram" />
 </a> 
@@ -25,7 +22,7 @@
 
 
 
-🔭 I am about to start a new role as Software Architect at Slalom Build in Tokyo 🗼
+🔭 I am a Software Architect at Slalom Build in Tokyo 🗼
 
 👯‍♀️ I volunteer as a Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
 
@@ -41,6 +38,5 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/ann-kilzer?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/stonecoldkilzer?style=social)
 
 
