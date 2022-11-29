@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/annkilzer/">
   <img src="https://img.shields.io/badge/-LinkedIn-114B5F" alt="LinkedIn"/>
 </a> 
+<a href="https://annkilzer.ghost.io/">
+  <img src="https://img.shields.io/badge/-Art%20Blog-166F67" alt="Art Blog" />
+</a> 
 <a href="https://www.instagram.com/cat_bacon/">
   <img src="https://img.shields.io/badge/-Instagram-1A936F" alt="Instagram" />
 </a> 
