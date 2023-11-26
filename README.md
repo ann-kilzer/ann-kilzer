@@ -25,7 +25,7 @@
 
 
 
-🔭 I am a Software Architect at Slalom Build in Tokyo 🗼
+🔭 I am a Software Architect at a Tech Company in Tokyo 🗼
 
 👯‍♀️ I volunteer as a Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
 
