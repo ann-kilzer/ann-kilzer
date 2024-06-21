@@ -6,13 +6,13 @@
 <a href="https://www.linkedin.com/in/annkilzer/">
   <img src="https://img.shields.io/badge/-LinkedIn-114B5F" alt="LinkedIn"/>
 </a> 
-<a href="https://annkilzer.ghost.io/">
-  <img src="https://img.shields.io/badge/-Art%20Blog-166F67" alt="Art Blog" />
+<a href="https://annkilzer.net">
+  <img src="https://img.shields.io/badge/-Website-166F67" alt="Website" />
 </a> 
 <a href="https://www.instagram.com/cat_bacon/">
   <img src="https://img.shields.io/badge/-Instagram-1A936F" alt="Instagram" />
 </a> 
-<a href="https://www.instagram.com/cat_bacon/">
+<a href="https://www.instagram.com/ann.kilzer.art/">
   <img src="https://img.shields.io/badge/-Art%20Instagram-51B484" alt="Art Instagram" />
 </a> 
 <a href="https://stackoverflow.com/users/1860768/ann-kilzer">
@@ -27,11 +27,11 @@
 
 🔭 I am a Software Architect at a Tech Company in Tokyo 🗼
 
-👯‍♀️ I volunteer as a Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo).
+👯‍♀️ I used to volunteer as Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo). I now volunteer as Director of [Women in Software Engineering JP](https://womeninsoftware.jp).
 
-✨ I'm excited about user-centric design, refactoring, and products built with care.
+✨ I'm excited about user-centric design, cloud architecture, AI Ethics, and products built with care.
 
-🌱 I’m currently teaching about ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
+🌱 I build a curriculum on ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
 
 🙌 I’m looking to collaborate on empowering women in tech.
 
