@@ -31,7 +31,7 @@
 
 ✨ I'm excited about user-centric design, cloud architecture, AI Ethics, and products built with care.
 
-🌱 I build a curriculum on ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
+🌱 I built a curriculum on ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
 
 🙌 I’m looking to collaborate on empowering women in tech.
 
