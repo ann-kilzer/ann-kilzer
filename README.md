@@ -25,11 +25,12 @@
 
 
 
-🔭 I am a Software Architect at a Tech Company in Tokyo 🗼
+🔭 I am a Software Architect at a Tech Company in Tokyo 🗼My top skills are AWS, Java, Python, React, Typescript, Developer Tooling, and Quality Engineering.
+
 
 👯‍♀️ I used to volunteer as Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo). I now volunteer as Director of [Women in Software Engineering JP](https://womeninsoftware.jp).
 
-✨ I'm excited about user-centric design, cloud architecture, AI Ethics, and products built with care.
+✨ I'm excited about user-centric design, cloud architecture (particularly AWS), AI Ethics, and products built with care.
 
 🌱 I built a curriculum on ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
 
