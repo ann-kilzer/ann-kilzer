@@ -18,14 +18,14 @@
 <a href="https://stackoverflow.com/users/1860768/ann-kilzer">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-6DC48E" alt="Stack Overflow" />
 </a> 
-<a href="https://buymeacoff.ee/annkilzer">
-  <img src="https://img.shields.io/badge/-Buy%20me%20a%20Coffee-88D498" alt="Buy me a Coffee" />
+<a href="https://a-creative-technologist-abroad.ghost.io/">
+  <img src="https://img.shields.io/badge/-Blog-88D498" alt="Blog" />
 </a>
 </p>
 
 
 
-🔭 I am a Software Architect at a Tech Company in Tokyo 🗼My top skills are AWS, Java, Python, React, Typescript, Developer Tooling, and Quality Engineering.
+🔭 I am a Software Architect at a Tech Company in Tokyo 🗼 My top skills are AWS, Java, Python, Golang, React, Typescript, Developer Tooling, and Quality Engineering. I have worked at companies including Mercari, Indeed, and Google.
 
 
 👯‍♀️ I used to volunteer as Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo). I now volunteer as Director of [Women in Software Engineering JP](https://womeninsoftware.jp).
