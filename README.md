@@ -25,7 +25,7 @@
 
 
 
-🔭 I am a Software Architect at a Tech Company in Tokyo 🗼 My top skills are AWS, Java, Python, Golang, React, Typescript, Developer Tooling, and Quality Engineering. I have worked at companies including Mercari, Indeed, and Google.
+🔭 I am a Senior Software Engineer working in Tokyo 🗼 My top skills are AWS, Java, Python, Golang, React, Typescript, Developer Tooling, and Quality Engineering. I have worked at companies including Mercari, Indeed, and Google.
 
 
 👯‍♀️ I used to volunteer as Senior Director of [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo). I now volunteer as Director of [Women in Software Engineering JP](https://womeninsoftware.jp).
