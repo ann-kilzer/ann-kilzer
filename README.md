@@ -34,8 +34,6 @@
 
 🌱 I built a curriculum on ✨ [Creative Coding](https://ann-kilzer.gitbook.io/creative-coding-study-session/) ✨ via Women Who Code Tokyo
 
-🙌 I’m looking to collaborate on empowering women in tech.
-
 😄 Pronouns: she / her
 
 ⚡ Fun fact: I have a cat 🐈 named Ramona.
@@ -43,4 +41,5 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ann-kilzer?style=social)
 
+[![An image of @catbacon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/catbacon)](https://holopin.io/@catbacon)
 
